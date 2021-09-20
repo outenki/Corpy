@@ -41,7 +41,7 @@ The arguments are described as follows:
   --batch-size <int>    Batch size
   --ok-weight <float>   Weight of loss for the class of *ok*
   --seed <int>          Random seed
-  --num-cnn <int>       Number of CNN layers ()
+  --num-cnn <int>       Number of CNN layers.
   --num-fc <int>        Number of FC layer.{1, 3}
   --epoch <int>         Number epochs
   --class-num <int>     Number of classes
